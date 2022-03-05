@@ -207,5 +207,6 @@ Alternatively, the ```<meta>``` element can be used to configure a policy, for e
 
 Congrats on completing this article. Though quite a long read but I hope you've been able to understand what REST APIs are and how they work.
 
+Huge credit goes to [RapidAPI Learn](https://rapidapi.com/learn)
 You can follow me on [Twitter](https://twitter.com/CodeLawd)
 
