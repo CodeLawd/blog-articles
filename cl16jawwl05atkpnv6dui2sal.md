@@ -1,4 +1,4 @@
-## Github features you might know about. Don't miss out
+# Github features you might not know about. Don't miss out
 
 
 ![social.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1648219349884/IDXLmFRdy.jpg)
