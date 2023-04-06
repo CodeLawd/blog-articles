@@ -1,9 +1,9 @@
 ---
-title: "TypeScript 101 - The Basics"
+title: "TypeScript 101 - The Introduction"
 seoTitle: "Learn the bases of TypeScript and how to start using TypeScript in you"
 datePublished: Thu Apr 06 2023 09:29:14 GMT+0000 (Coordinated Universal Time)
 cuid: clg4x246x001309mrdji8e2ec
-slug: typescript-101-the-basics
+slug: typescript-101-the-introduction
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680733696489/318e9a3f-8f8f-42ca-b98b-8e57f4edab8d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680773347287/b745414b-b610-4e87-89e7-a95a3d1e4ca1.png
 tags: typescript
