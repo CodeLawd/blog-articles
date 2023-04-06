@@ -1,6 +1,6 @@
 ---
 title: "TypeScript 101 - The Introduction"
-seoTitle: "Learn the bases of TypeScript and how to start using TypeScript in you"
+seoTitle: "Get started with TypeScript on the fly"
 datePublished: Thu Apr 06 2023 09:29:14 GMT+0000 (Coordinated Universal Time)
 cuid: clg4x246x001309mrdji8e2ec
 slug: typescript-101-the-introduction
